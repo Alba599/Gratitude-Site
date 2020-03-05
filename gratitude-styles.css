@@ -69,3 +69,11 @@
     display: inline-block;
     color: white;
 }
+.quote {
+    display: flex;
+    justify-content: flex-start;
+    /* position: absolute; */
+    bottom: 2px;
+    color: white;
+    /* left: 16px; */
+}
