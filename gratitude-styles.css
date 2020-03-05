@@ -167,3 +167,19 @@ ul {
     padding-inline-start: 40px;
     padding-top: 20px; 
 } */
+
+.paragraph {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    font-weight: 200;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
+.paragraph2 {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    font-weight: 300;
+    font-family: 'Source Sans Pro',sans-serif;
+}
