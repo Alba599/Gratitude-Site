@@ -1,7 +1,10 @@
-$('textbox').keypress(function(){
+function Count() {
 
-    if(this.value.length > 160){
-        return false;
-    }
-    $("#remainingC").html("Remaining characters : " +(160 - this.value.length));
-});​
+    var i = document.getElementById("textbox").value.length;
+    document.getElementById("display").innerHTML = 250 - i;
+
+}
+
+function getChar() {
+    document.getElementById("display").innerHTML = 250;
+}
