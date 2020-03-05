@@ -122,3 +122,23 @@ ul {
     border: 30px solid rgba(28,110,164,0.38);
 }
 
+#importance {
+    /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
+    /* font-size: 22px; */
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    /* text-shadow: 2px 2px 8px #000000; */
+    font-size: 2.2rem;
+    line-height: 1;
+    text-transform: uppercase;
+    font-weight: 700;
+    /* font-weight: 200; */
+    font-family: 'Poppins',sans-serif;
+}
+
