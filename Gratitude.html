@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Gratitude Journal</title>
         <link rel="stylesheet" href="gratitude-styles.css">
+        <script src="javascript.js"></script>
     </head>
     <body>
         <div class="picture">
@@ -112,19 +113,19 @@
     </section>
     <div class="last">
         <h4 id="thankful">What are you thankful for today?</h4>
-        <input id="textbox" type="text" placeholder="What are you thankful for today?"/>
+        <input id="textbox" type="text" maxlength="250" placeholder="What are you thankful for today?"/>
         <form class="form">
             <fieldset>
                 <input class="submit" type="submit" value="Sign Up" />
                 <legend>SIGN UP FOR HAPPINESS</legend>
                 First Name: <input name="firstName" type="text"
-                placeholder="Enter first name" />
+                placeholder="Enter first name" required="required" />
                 Last Name:<input name="lastName" type="text"
-                placeholder="Enter last name" />
+                placeholder="Enter last name" required="required" />
                 <br>
                 Email Address: <input name="emailAddress"
                 type="email" placeholder="Enter email address" required="required" />
-                 Date:<input name="service_date" type="date">
+                 Date:<input name="service_date" type="date" required="required" >
             </fieldset>
         <!-- <input class="submit" type="submit" value="Sign Up" /> -->
         </form>
