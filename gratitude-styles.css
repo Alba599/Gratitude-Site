@@ -151,3 +151,19 @@ ul {
     font-family: 'Source Sans Pro',sans-serif;
     font-weight: 300;
 }
+
+/* .moreinfo {
+    column-count: 2;
+    column-gap: 40px;
+    column-rule: 1px solid hsl(195, 53%, 79%);
+    column-width: 100px;
+    column-span: all;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-weight: 300; */
+
+/* } */
+
+/* #info {
+    padding-inline-start: 40px;
+    padding-top: 20px; */
+/* } */
