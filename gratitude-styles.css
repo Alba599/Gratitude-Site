@@ -93,3 +93,8 @@ body {
     font-variant: normal;
     text-transform: none;
 }
+
+ul {
+    /* display: inline-table; */
+    margin-top: 5 px;
+}
