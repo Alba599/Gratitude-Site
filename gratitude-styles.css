@@ -1,0 +1,36 @@
+.picture {
+    background-image: url('sunrisePic.jpg');
+    background-attachment: fixed;
+    display: flex;
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+    /* background-size: contain; */
+    position: relative;
+    background-size: cover;
+    /* background-position: cover; */
+    /* position: fixed; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* width: 100%; */
+    width: auto;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    /* font-family: "Apple Chancery", "Brush Script MT", "Brush Script Std", "cursive";
+    font-style: sans-serif; */
+    font-weight: 800;
+    overflow: hidden;
+    /* font-size: 20px; */
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 17px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+
+}
