@@ -34,3 +34,20 @@
     text-transform: none;
 
 }
+
+.login {
+    /* justify-content: space-between; */
+    display: flex;
+    justify-content: flex-end;
+    position: right;
+    color: white;
+    background-color: Transparent;
+    border: none;
+    text-decoration: none;
+    display: inline-flex;
+    /* margin-left: 10rem; */
+    /* padding: 2 rem; */
+    /* position: absolute;
+    top: 8px;
+    right: 16px; */ 
+}
