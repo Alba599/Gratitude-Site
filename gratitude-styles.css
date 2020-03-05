@@ -98,3 +98,11 @@ ul {
     /* display: inline-table; */
     margin-top: 5 px;
 }
+.info {
+    background-color: Transparent;
+    border: none;
+    text-decoration: none;
+    color: black;
+    color: rgb(0, 0, 0); 
+
+}
