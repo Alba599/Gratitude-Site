@@ -159,11 +159,11 @@ ul {
     column-width: 100px;
     column-span: all;
     font-family: 'Source Sans Pro',sans-serif;
-    font-weight: 300; */
+    font-weight: 300; 
 
-/* } */
+}
 
-/* #info {
+#info {
     padding-inline-start: 40px;
-    padding-top: 20px; */
-/* } */
+    padding-top: 20px; 
+} */
