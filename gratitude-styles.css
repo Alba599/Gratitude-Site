@@ -265,3 +265,7 @@ input {
     font-family: 'Source Sans Pro',sans-serif;
 }
 
+.backbutton {
+    font-size: 15px;
+    float: left;
+}
