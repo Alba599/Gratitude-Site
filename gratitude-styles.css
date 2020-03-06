@@ -250,3 +250,18 @@ legend.scheduler-border {
 input {
     margin-top: 10px;
 }
+
+.cultivateGratitude {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.par {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    font-weight: 300;
+    font-size: 17px;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
