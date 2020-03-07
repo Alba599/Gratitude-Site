@@ -3,26 +3,17 @@
     background-attachment: fixed;
     display: flex;
     background-repeat: no-repeat;
-    /* background-size: 100% 100%; */
-    /* background-size: contain; */
     position: relative;
     background-size: cover;
-    /* background-position: cover; */
-    /* position: fixed; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* width: 100%; */
     width: auto;
     height: 100%;
     margin-left: auto;
     margin-right: auto;
-    /* font-family: "Apple Chancery", "Brush Script MT", "Brush Script Std", "cursive";
-    font-style: sans-serif; */
     font-weight: 800;
     overflow: hidden;
-    /* font-size: 20px; */
-    /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
     font-family: 'Poppins',sans-serif;
     font-size: 17px;
     letter-spacing: 0px;
@@ -37,7 +28,6 @@
 }
 
 .login {
-    /* justify-content: space-between; */
     display: flex;
     justify-content: flex-end;
     position: right;
@@ -46,25 +36,17 @@
     border: none;
     text-decoration: none;
     display: inline-flex;
-    /* margin-left: 10rem; */
-    /* padding: 2 rem; */
-    /* position: absolute;
-    top: 8px;
-    right: 16px; */ 
 }
 .about {
     display: flex;
     justify-content: flex-end;
-    /* justify-content: space-between; */
     color: white;
     background-color: Transparent;
     border: none;
     text-decoration: none;
-    /* margin-right: 7px; */
 }
 
 .title {
-    /* position: absolute; */
     display: flex;
     text-align: center;
     display: inline-block;
@@ -73,16 +55,12 @@
 .quote {
     display: flex;
     justify-content: flex-start;
-    /* position: absolute; */
     bottom: 2px;
     color: white;
-    /* left: 16px; */
 }
 
 body {
     text-align: center;
-    /* font-family: "Apple Chancery", "Brush Script MT", "Brush Script Std", "cursive"; */
-    /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
     font-family: 'Source Sans Pro',sans-serif;
     font-size: 17px;
     letter-spacing: 0px;
@@ -96,7 +74,6 @@ body {
 }
 
 ul {
-    /* display: inline-table; */
     margin-top: 5 px;
 }
 .info {
@@ -119,13 +96,11 @@ ul {
     font-style: italic;
     font-variant: normal;
     text-transform: none;
-    /* border: 2px dashed rgba(28,110,164,0.5); */
+
     border: 30px solid rgba(28,110,164,0.38);
 }
 
 #importance {
-    /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
-    /* font-size: 22px; */
     letter-spacing: 0px;
     word-spacing: 2px;
     color: #000000;
@@ -134,12 +109,10 @@ ul {
     font-style: italic;
     font-variant: normal;
     text-transform: none;
-    /* text-shadow: 2px 2px 8px #000000; */
     font-size: 2.2rem;
     line-height: 1;
     text-transform: uppercase;
     font-weight: 700;
-    /* font-weight: 200; */
     font-family: 'Poppins',sans-serif;
 }
 
@@ -151,30 +124,10 @@ ul {
     column-span: all;
     font-family: 'Source Sans Pro',sans-serif;
     font-weight: 300;
-    /* margin-top: 0px;
-    vertical-align:top; */
+  
 }
 
 
-/* .moreinfo {
-    column-count: 2;
-    column-gap: 40px;
-    column-rule: 1px solid hsl(195, 53%, 79%);
-    column-width: 100px;
-    column-span: all;
-    font-family: 'Source Sans Pro',sans-serif;
-    font-weight: 300; 
-
-}
-
-#info {
-    padding-inline-start: 40px;
-    padding-top: 20px; 
-} */
-
-/* #info {
-    color: lightblue;
-} */
 .paragraph {
     margin-left: 60px;
     margin-right: 60px;
@@ -233,19 +186,6 @@ select {
     margin-bottom: 40px;
 }
 
-/* fieldset.scheduler-border {
-    border: 1px groove #ddd !important;
-    padding: 0 1.4em 1.4em 1.4em !important;
-    margin: 0 0 1.5em 0 !important;
-    -webkit-box-shadow:  0px 0px 0px 0px #000;
-            box-shadow:  0px 0px 0px 0px #000;
-}
-
-legend.scheduler-border {
-    font-size: 1.2em !important;
-    font-weight: bold !important;
-    text-align: left !important;
-} */
 
 input {
     margin-top: 10px;
